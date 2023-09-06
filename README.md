@@ -1,5 +1,5 @@
 pacote_numero_primo
-Um conjunto de funções básicas para calculo de números primos e exercicio com listas.
+Um conjunto de funções básicas para calculo e busca de números primos e exercicio com listas.
 
 Uso do pacote.
 python = "^3.7"
